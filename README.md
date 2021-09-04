@@ -1,4 +1,4 @@
-# Site de Noticias
+## Site de Noticias
 - Projeto de um site de noticias para fins de estudo feito no "Curso desenvolvimento web - Udemy":
 
 ![index](https://user-images.githubusercontent.com/88755473/132081509-02e707a8-e9e1-436a-8117-cf92767cfd52.png)
