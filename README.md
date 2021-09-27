@@ -1,5 +1,5 @@
 ## Site de Noticias
-- Projeto de um site de noticias para fins de estudo feito no "Curso desenvolvimento web - Udemy":
+- Projeto de um site de noticias para fins de estudo feito no "Curso desenvolvimento web - Udemy"
 
 - Live Site URL: [Projeto Site Noticias URL](https://gabmotamelo.github.io/ProjetoSiteNoticias/brasil.html)
 
